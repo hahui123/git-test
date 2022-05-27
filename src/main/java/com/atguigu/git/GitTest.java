@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("Hello Shanghai!");
         System.out.println("Hello WuAn!");
         System.out.println("Hello China!");
+        System.out.println("master test!");
     }
 }
